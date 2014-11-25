@@ -1,0 +1,79 @@
+@media screen and (min-width: 320px) and (max-width: 568px) {
+
+#wrapper {background-size: 100%;
+	height: 200px;}
+
+.nav li {width: 60px;
+	height: auto;}
+
+#jm {display: none}
+
+header.smaller .left-part {padding-right: 0px;}
+
+header.smaller .right-part {padding-left: 0px;}
+
+#block-block-10 {margin-top: 17%;}
+#block-block-10 > div.content > div > h1 {font-size: 200%;}
+#block-block-10 h2 {display: none;}
+#block-block-10 h3 {display: none;}
+
+.view-services .views-fluid-grid-inline {width: 100%;}
+
+.aboutbutton {margin-top: 20px;}
+
+#block-block-11 {width: 100%;
+	float: left;
+	text-align: center}
+
+.isotope-options {
+	width: 100%;
+	float: left;
+	padding-top: 0px;
+	margin-bottom: 50px}
+
+.view-isotope-example li {text-align: center}
+
+.view-content {width: 100%;
+	float: left;}
+
+.isotope-container {width: 100%;
+	float: left;}
+
+#isotope-container {margin-top: 0px;}
+
+.isotope-element {
+width: 100%;
+height: 200px;
+margin: 0px;
+float: left;
+overflow: hidden;
+position: relative;
+background: transparent;
+color: #fff;
+}
+
+.view-isotope-example .views-field-title {line-height: 13;}
+
+#views_slideshow_controls_text_next_testimonial-block,
+#views_slideshow_controls_text_previous_testimonial-block {margin-top: 20px}
+
+.title {height: 200px;}
+
+.title-text {font-size: 100%;
+	padding-top: 65px;}
+
+.node-case-study .field-name-body {width: 100%;}
+
+.field-name-field-skills,
+.field-name-field-tags,
+.field-name-field-client-name,
+.field-name-field-date,
+.field-name-field-site {width: 100%;}
+
+.node-case-study {padding-top: 50px;
+	width: 80%;}
+
+
+
+}
+
